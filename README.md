@@ -23,6 +23,10 @@
 - SEVERE: Enable
 - PERFORMANCE: Enable
 
+## Bookmarks
+
+- When Traversing Bookmarks with Next or Previous Bookmark: Include Only Bookmarks in Current Editor.
+
 # Environment
 
 - Look and Feel: Windows (performance)
