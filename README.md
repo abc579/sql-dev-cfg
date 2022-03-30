@@ -1,6 +1,6 @@
 # Code Editor
 
-- Supported Sync Spec and Body: false
+- Supported Sync Spec and Body: false (performance)
 
 ## Caret
 
@@ -22,3 +22,7 @@
 - INFORMATIONAL: Enable
 - SEVERE: Enable
 - PERFORMANCE: Enable
+
+# Environment
+
+- Look and Feel: Windows (performance)
